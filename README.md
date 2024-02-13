@@ -30,7 +30,7 @@ I'm Raahim Irfan, a dedicated and results-driven Computer Science student with a
   - Successfully shifted focus to website development, meeting project deadlines efficiently.
 
 ## 💡 Skills
-Python | Django | ORM | Django REST Framework | RESTful API | PostgresQL | SQL | Git | OpenAI CLIP Model | JSON Web Token | GraphQL| Docker | Kubernetes | Heroku | AWS | JavaScript | React | HTML | CSS | Bootstrap | WordPress
+Python | Django | ORM | Django REST Framework | RESTful API | PostgresQL | SQL | Git | OpenAI CLIP Model | JSON Web Token | GraphQL | Docker | Kubernetes | Heroku | AWS | JavaScript | React | HTML | CSS | Bootstrap | WordPress
 
 ## 🌐 Interests
 Open Source | DevOps | Asynchronous Programming | Refactoring | Code Smells | Backend | Tech Communities | Competitive Programming | Containerization | Agile Methodologies | Token Authentication | API Documentation | Serverless Computing | Cloud Platforms
